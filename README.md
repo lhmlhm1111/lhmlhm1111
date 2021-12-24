@@ -8,5 +8,5 @@
 + 부족하지만 [블로그](https://lhmlhm1111.github.io/)를 운영 중입니다
 + 14년 째 LG Twins 팬
 
-SKT AI Fellowship NLP Task 우수상 수상
-2021 빅콘테스트 
++ SKT AI Fellowship NLP Task 우수상 수상
++ 2021 빅콘테스트 

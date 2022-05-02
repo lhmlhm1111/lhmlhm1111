@@ -11,3 +11,6 @@
 ### 수상 이력
 + [SKT AI Fellowship NLP Task 우수상 수상](https://github.com/SKT-LSL/AI-Fellowship-3rd)
 + [2021 빅콘테스트 최우수상 수상](https://github.com/lhmlhm1111/DAdejus_bigcon_2021)
+
+### Tech
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
